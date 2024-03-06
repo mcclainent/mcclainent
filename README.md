@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @mcclainent
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... mcclainent@outlook.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+mcclainent/mcclainent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+I would like to build a module that works with odoo.com.  I need it have coupons instead of products. The coupns should count up everytime some picks
+tthat coupn. Coupons ahould be uploaded by merchants using their backend to track data. Ther merchant should be able to designate the coupon to automatically
+increase in discount the more people claim that coupun.
